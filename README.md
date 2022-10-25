@@ -20,10 +20,16 @@ Permission Details:
 8. downloads : for downloading recored audio.
 9. \*://\*.smartstream.ne.jp/\* : the site where audio stored.
 10. unlimitedStorage : for recording radio.
-
+11. \*://\*.radiko-cf.com/\*": the site where audio stored.
 
 What's new:
 ----------
++ version 0.3.2
+
+    using aSmartPhone7o key (replacing aSmartPhone7a's key)
+
+    update device model list
+
 + version 0.3.1
 
     fix m3u8 endpoints
@@ -31,7 +37,7 @@ What's new:
     fix aac urls endpoints
 
     fix drag issue in some cases.
--
+
 + version 0.3.0
 
     improve timezone handle.
